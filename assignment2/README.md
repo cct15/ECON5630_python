@@ -1,4 +1,4 @@
-# Some details about assigment2 in python
+*Some details about assigment2 in python*
 
 For the analysis part, I didn't find partial linear regression function in python (neither in statsmodel nor in sklearn package), so I implemented it myself.
 
